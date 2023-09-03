@@ -1,2 +1,3 @@
-name: assignments_dir
-description: assignment dir for aelds
+
+name: aesd_socket
+description: socket app 
